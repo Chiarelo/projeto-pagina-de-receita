@@ -2,7 +2,8 @@
 Acesse meu projeto em: 
 <br><br>
 
-![Página de Receita](https://github.com/user-attachments/assets/09147c62-e138-4588-98d6-)
+![Página de Receita](https://github.com/user-attachments/assets/2a544d88-0f99-45f6-af5b-768d12059f32)
+
 
 # 💻Conceitos utilizados no projeto 
 - Estrutura HTML;
